@@ -111,7 +111,7 @@ npm run typecheck
 
 ## Author
 
-**Leandro Rocha** · civil engineer and software developer · Joinville, Brazil
+**Leandro Rocha** · civil engineer and software developer · Brazil
 I design, build and operate the Centtra products end to end, from database and architecture to UI.
 
 ---
